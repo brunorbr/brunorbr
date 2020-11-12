@@ -5,7 +5,7 @@
 
 _Hello there!_
 
-I'm Bruno, my pronoums are he/him/his, by the time I am writing this, I'm 28 years old, living in Porto Alegre, a large town in the southermost part of Brazil. Although you might call it small when compared to, let's just say, the Milky Way.
+I'm Bruno, my pronoums are he/him/his, by the time I am writing this, I'm 28 years old, living in Porto Alegre, a large town in the southernmost part of Brazil. Although you might call it small when compared to, let's just say, the Milky Way.
 
 A couple of years ago when recruiters asked me why did I choose the Information Technology branch as my career, I wouldn't know how to answer. Was it because I liked technology? Was it because I was inspired by my older brother, which at the time had been working on IT for around seven years? Was it because it was the trend for the future? All of those were possible answers, but none of them were my truth.
 
