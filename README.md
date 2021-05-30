@@ -13,6 +13,6 @@ Then it dawned on me: Ever since childhood, I had this will to change the world 
 
 I've been part of the IT Crowd for the past 6 years, I started out my career as a help desk intern, but since then I have worked as a Support Analyst for a Web Hosting company, Application Support intern for a company that developed an IT Monitoring Application based on Nagios (I miss you OpMon). Around three years ago, I finally found myself working as a Software Tester, I started out as a manual tester and eventually developed an interest in software test automation and that's where my career led me. For around a years I also worked as a Atlassian Consultant, eventually applying my automation skills whenever it was needed, but I eventually figured that Quality Assurance was the career I wanted for myself.
 
-So here I am, working as an Automated Tests Analyst for @dbserver, and that's the summary for what I've been doing for most of my professional life.
+So here I am, working as an QA Engineer for kCS IT, and that's the summary for what I've been doing for most of my professional life.
 
 If you're new to Software Test Automation and you have questions or need any tips on where and how to start, feel free to reach out to me and I'll try to help you as best as I can.
